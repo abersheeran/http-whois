@@ -1,3 +1,7 @@
+# WHOIS is unavailable
+
+https://www.icann.org/zh/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-zh
+
 # http-whois
 
 Deploy.
